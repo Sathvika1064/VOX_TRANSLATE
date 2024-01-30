@@ -1,4 +1,4 @@
-# VOX_TRANSLATE
+# VOX TRANSLATE
 VoxTranslate is a web application designed to facilitate the translation of YouTube videos into the language of your choice. This platform offers translation features for approximately 133 languages, ensuring a global reach for users. Beyond mere audio translation, VoxTranslate also provides the translation of subtitles, making videos more accessible to diverse audiences.
 
 **Features**
